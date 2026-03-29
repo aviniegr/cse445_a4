@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://aviniegr.github.io/cse445_a4/NationalParks.xsd">
+  
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.5">
+    <Name>Butterfield Overland</Name>
+    <Phone>928-317-3200</Phone>
+    <Address NearestAirport="Yuma International">
+      <Number>201</Number>
+      <Street>N 4th Avenue</Street>
+      <City>Yuma</City>
+      <State>AZ</State>
+      <Zip>85364</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Canyon de Chelly</Name>
+    <Phone>928-674-5500</Phone>
+    <Phone>928-674-5501</Phone>
+    <Address NearestAirport="Flagstaff Pulliam">
+      <Number>3</Number>
+      <Street>Chinle Drive</Street>
+      <City>Chinle</City>
+      <State>AZ</State>
+      <Zip>86503</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Casa Grande Ruins</Name>
+    <Phone>520-723-3172</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>1100</Number>
+      <Street>W Ruins Drive</Street>
+      <City>Coolidge</City>
+      <State>AZ</State>
+      <Zip>85128</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Chiricahua</Name>
+    <Phone>520-824-3560</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>12856</Number>
+      <Street>E Rhyolite Creek Road</Street>
+      <City>Willcox</City>
+      <State>AZ</State>
+      <Zip>85643</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Coronado</Name>
+    <Phone>520-366-5515</Phone>
+    <Phone>520-366-5516</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>4101</Number>
+      <Street>E Montezuma Canyon Road</Street>
+      <City>Hereford</City>
+      <State>AZ</State>
+      <Zip>85615</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Fort Bowie</Name>
+    <Phone>520-847-2500</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>3500</Number>
+      <Street>Apache Pass Road</Street>
+      <City>Bowie</City>
+      <State>AZ</State>
+      <Zip>85605</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Glen Canyon</Name>
+    <Phone>928-608-6200</Phone>
+    <Phone>928-608-6201</Phone>
+    <Address NearestAirport="Page Municipal">
+      <Number>691</Number>
+      <Street>Scenic View Drive</Street>
+      <City>Page</City>
+      <State>AZ</State>
+      <Zip>86040</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Grand Canyon-Parashant</Name>
+    <Phone>435-688-3200</Phone>
+    <Address NearestAirport="St. George Regional">
+      <Number>345</Number>
+      <Street>E Riverside Drive</Street>
+      <City>St. George</City>
+      <State>UT</State>
+      <Zip>84790</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Hubbell Trading Post</Name>
+    <Phone>928-755-3475</Phone>
+    <Address NearestAirport="Gallup Municipal">
+      <Number>1</Number>
+      <Street>Hwy 191</Street>
+      <City>Ganado</City>
+      <State>AZ</State>
+      <Zip>86505</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Saguaro</Name>
+    <Phone>520-733-5153</Phone>
+    <Phone>520-733-5158</Phone>
+    <Address NearestAirport="Tucson International">
+      <Number>3693</Number>
+      <Street>S Old Spanish Trail</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85730</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalParks>
