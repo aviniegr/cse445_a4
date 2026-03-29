@@ -1,15 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://aviniegr.github.io/cse445_a4/xml"
     xmlns="https://aviniegr.github.io/cse445_a4/xml"
-    targetNamespace="https://aviniegr.github.io/cse445_a4/xml" elementFormDefault="qualified"
+    elementFormDefault="qualified"
     attributeFormDefault="unqualified">
+
     <xsd:element name="NationalParks">
         <xsd:complexType>
             <xsd:sequence>
+
                 <xsd:element name="NationalPark" minOccurs="1" maxOccurs="unbounded">
                     <xsd:complexType>
                         <xsd:sequence>
                             <xsd:element name="Name" type="xsd:string" />
                             <xsd:element name="Phone" type="xsd:string" maxOccurs="unbounded" />
+
                             <xsd:element name="Address" minOccurs="1" maxOccurs="1">
                                 <xsd:complexType>
                                     <xsd:sequence>
@@ -23,11 +28,14 @@
                                         use="required" />
                                 </xsd:complexType>
                             </xsd:element>
+
                         </xsd:sequence>
-                        <xsd:attribute name="Rating" type="xsd:decimal" use="optional" />
+                        <xsd:attribute name="Rating" type="xsd:string" use="optional" />
                     </xsd:complexType>
                 </xsd:element>
+
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
+
 </xsd:schema>
